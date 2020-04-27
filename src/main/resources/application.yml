@@ -1,0 +1,6 @@
+
+spring:
+  application-name: kafka-unittesting-tool
+  kafka:
+    brokers: localhost:9092
+    groupId: UnitTester
